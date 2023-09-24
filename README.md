@@ -4,7 +4,7 @@ Assalam u Alaikum 👋 My name is Muhammad Arslan
 Web Developer
 -------------
 
-I am muhammad Arslan, a front-end developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.
+I am Muhammad Arslan, a front-end developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [marslanmustafa391@gmail.com](mailto:marslanmustafa391@gmail.com)
