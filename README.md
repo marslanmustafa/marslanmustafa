@@ -4,7 +4,7 @@ Assalam u Alaikum 👋 My name is Muhammad Arslan
 Web Developer
 -------------
 
-I am Muhammad Arslan, a front-end developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.
+I am muhammad Arslan, a front-end developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [marslanmustafa391@gmail.com](mailto:marslanmustafa391@gmail.com)
@@ -14,22 +14,22 @@ I am Muhammad Arslan, a front-end developer who is dedicated to crafting visuall
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="html-icon-url" width="36" height="36" alt="HTML" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="css-icon-url" width="36" height="36" alt="CSS" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="javascript-icon-url" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="react-icon-url" width="36" height="36" alt="React" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 </a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="php-icon-url" width="36" height="36" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
 </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="nodejs-icon-url" width="36" height="36" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
 </a>
 
 </p>
