@@ -66,8 +66,11 @@ I am muhammad Arslan, a front-end developer who is dedicated to crafting visuall
 <a href="http://www.github.com/marslanmustafa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marslanmustafa&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" alt="marslanmustafa's GitHub stats" />
 </a>
+
+
 <a href="https://github.com/marslanmustafa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marslanmustafa&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=" alt="marslanmustafa's GitHub most-used languages" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marslanmustafa&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=300" alt="marslanmustafa's GitHub most-used languages" />
 </a>
+
 
 <a href="http://www.github.com/marslanmustafa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marslanmustafa&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
