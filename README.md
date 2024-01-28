@@ -54,6 +54,13 @@ I am muhammad Arslan, a front-end developer who is dedicated to crafting visuall
 
 ### Socials
 
+<a href="http://www.github.com/marslanmustafa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=marslanmustafa&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" alt="marslanmustafa's GitHub stats" />
+</a>
+<a href="https://github.com/marslanmustafa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marslanmustafa&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=320" alt="marslanmustafa's GitHub most-used languages" />
+</a>
+
 <p align="left"> <a href="https://www.github.com/marslanmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/marslanmustafa391/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/muhammadarslan.mustafa.9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
 </a></p>
 ### Badges
