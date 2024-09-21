@@ -4,11 +4,11 @@ Assalam u Alaikum
 Frontend-Developer
 -------------
 
-I am muhammad Arslan, a front-end developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.
+I am muhammad Arslan, a MERN Stack developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [marslanmustafa391@gmail.com](mailto:marslanmustafa391@gmail.com)
-* 🧠  I'm learning Node Js with SQL
+* 🧠  I'm Improving Knowledge of Node Js with SQL MongoDB 
 
 ### Skills
 
@@ -39,6 +39,11 @@ I am muhammad Arslan, a front-end developer who is dedicated to crafting visuall
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" />
 </a>
+
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="SQL" />
+</a>
+
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" />
 </a>
@@ -50,13 +55,23 @@ I am muhammad Arslan, a front-end developer who is dedicated to crafting visuall
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" />
 </a>
 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="SQL" />
+</a>
+
 </p>
 
 ### Socials
 
 
-<p align="left"> <a href="https://www.github.com/marslanmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/marslanmustafa391/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/muhammadarslan.mustafa.9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-</a></p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/
+muhammad-arslan-5069572b2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/marslanmustafa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://www.instagram.com/marslanmustafa391/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+  <a href="https://www.facebook.com/muhammadarslan.mustafa.9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+</a>
+</p>
 ### Badges
 
 <b>My GitHub Stats</b>
