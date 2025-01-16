@@ -1,13 +1,14 @@
 Assalam u Alaikum
 ============================
 
-Frontend-Developer
+Full Stack Developer
 -------------
 
-I am muhammad Arslan, a MERN Stack developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.
+I am Muhammad Arslan, a MERN Stack developer who is dedicated to crafting visually stunning and user-friendly websites. I am always striving to improve my skills and knowledge, eager to learn new technologies and keep up with industry trends. Every day, I set myself new challenges and opportunities to grow as a developer, constantly pushing my own boundaries.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [marslanmustafa391@gmail.com](mailto:marslanmustafa391@gmail.com)
+* ✉️  This is my Portfolio u can visit for more info [portfolio](https://marslanmustafa.com/)
 * 🧠  I'm Improving Knowledge of Node Js with SQL MongoDB 
 
 ### Skills
