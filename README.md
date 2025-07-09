@@ -96,7 +96,7 @@ I’m currently diving deeper into **Node.js, NestJS, SQL, and MongoDB**, while 
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=marslanmustafa&show_icons=true&theme=dark&count_private=true" />
 </a>
 <a href="https://github.com/marslanmustafa">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslanmustafa&layout=compact&theme=dark&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marslanmustafa&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=300" alt="marslanmustafa's GitHub most-used languages&theme=dark" />
 </a>
 </p>
 
